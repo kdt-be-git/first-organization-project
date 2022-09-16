@@ -18,11 +18,11 @@
 
 ## 최선의 플레이 TIP
 
-Optimal play for 2-player Pig was computed by Todd W. Neller[5] and visualized by Clifton G. M. Presser in 2001.[6] At any time, the relevant decision information includes the player's score, the opponent's score, and the turn total. Such information corresponds to a 3D point in the graph's space. If this point is inside the gray solid, the player should roll. Otherwise, the player should hold.
+2인용 피그를 위한 최적 플레이는 토드 W. 넬러[5]에 의해 계산되었고 2001년 클리프턴 G. M. 프레서에 의해 시각화되었다.[6] 언제라도 해당 판정 정보에는 선수의 득점, 상대방의 득점, 턴 합계가 포함된다. 이러한 정보는 그래프 공간의 3D 점에 해당한다. 이 점이 회색 솔리드 안쪽에 있으면 플레이어는 롤링해야 합니다. 그렇지 않으면 선수가 버텨야 한다.
 
-Many 2-dice variants have been analysed,[7] and human-playable Pig strategies have been compared to optimal play.[8] For example:
--'Hold at 20' is a popular strategy. Each turn, the player rolls until they score 20 or more, then holds. This strategy has a 8% disadvantage against optimal play.
--'Hold at 25' was found to be more effective.[who?] This has a 4.2% disadvantage against optimal play.
--'4 scoring turns' holds at 25 on the first turn, then on subsequent turns divides the amount needed to reach 100 by the number of turns remaining. This has a 3.3% disadvantage against optimal play.
--'End race or keep pace'. If either player has a score of 71 or higher, roll to win. Otherwise, hold on 21 plus the difference between scores divided by 8. This has a 0.9% disadvantage against optimal play.
 
+많은 2-다이스 변형이 분석되었고 [7] 인간이 플레이할 수 있는 돼지 전략은 최적의 플레이와 비교되었다.[8] 예: -'20에 고정'은 널리 사용되는 전략입니다. 매번 턴할 때마다 플레이어는 20점 이상 득점할 때까지 롤링한 다음 홀딩합니다. 
+이 전략은 최적의 플레이에 비해 8%의 단점이 있습니다. 
+-'25에서 홀드'가 더 효과적인 것으로 나타났습니다. [누구?] 이는 최적의 플레이에 비해 4.2%의 단점이 있다. 
+-'4득점 턴'은 첫 번째 턴에서 25로 유지되고 이후 턴에서 100에 도달하는 데 필요한 양을 남은 턴 수로 나눈다. 이것은 최적의 플레이에 비해 3.3%의 불리한 점이 있다. 
+-'종주 아니면 페이스를 유지하라'. 두 선수 중 한 명이 71점 이상이면 굴려 승리합니다. 그렇지 않으면, 21에 점수 차이를 8로 나눈 값을 더하면 됩니다. 이는 최적의 플레이에 비해 0.9%의 단점이 있다.
