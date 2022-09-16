@@ -1,10 +1,13 @@
 ---
 name: Custom issue template
-about: Describe this issue template's purpose here.
+about: 이슈 목적
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
+## 설명
 
+
+## 할 일
