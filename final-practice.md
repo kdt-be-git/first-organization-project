@@ -1,4 +1,4 @@
-## Optimal play
+## 최선의 플레이 TIP
 
 Optimal play for 2-player Pig was computed by Todd W. Neller[5] and visualized by Clifton G. M. Presser in 2001.[6] At any time, the relevant decision information includes the player's score, the opponent's score, and the turn total. Such information corresponds to a 3D point in the graph's space. If this point is inside the gray solid, the player should roll. Otherwise, the player should hold.
 
